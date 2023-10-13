@@ -9,6 +9,6 @@ We believe in crafting solutions that allow developers to develop, build and dep
 
 ## Learning Resources
 
-We have started creting a catalogue of material to help developers understand what goes into building a modern application from scratch.
+We have started creating a catalogue of material to help developers understand what goes into building a modern application from scratch.
 
 You can view this catalogue on our [Educative page](#)
